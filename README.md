@@ -1,18 +1,18 @@
-# Código de conducta de LasDeSistemas
+# Código de conducta de \[LAS\] de Sistemas
 
 ¡Bienvenidas, bienvenidos y bienvenides!
 
-LasDeSistemas somos una comunidad transfeminista de mujeres, lesbianas, trans, travestis y no binaries que formamos parte del ámbito de sistemas y tenemos como objetivos principales visibilizarnos, potenciarnos, capacitarnos, contenernos y transformar nuestros espacios de trabajo en lugares inclusivos.
+\[LAS\] de Sistemas somos una comunidad transfeminista de mujeres, lesbianas, trans, travestis y no binaries que formamos parte del ámbito de sistemas y tenemos como objetivos principales visibilizarnos, potenciarnos, capacitarnos, contenernos y transformar nuestros espacios de trabajo en lugares inclusivos.
 
 Buscamos que este sea un espacio de contención, de respeto y libre de acoso para todes. En pos del empoderamiento de identidades poco representadas, decidimos no incluir hombres cis en la comunidad, a excepción de actividades explícitamente abiertas a todo público.<br>
 Somos una comunidad apartidaria, sin embargo, nos manifestamos políticamente en favor de los movimientos que defienden nuestros valores y en contra de aquellos que actúen en detrimento de los mismos.
 
 ## Alcance del Código de conducta
 
-Este Código de Conducta (en adelante CC) abarcará el comportamiento de las personas integrantes de la comunidad dentro del Slack y en cualquier ámbito virtual o presencial. Dichos ámbitos pueden ser tanto los organizados por LasDeSistemas como aquellos que son externos pero a los que asistimos como representantes de la comunidad.<br>
+Este Código de Conducta (en adelante CC) abarcará el comportamiento de las personas integrantes de la comunidad dentro del Slack y en cualquier ámbito virtual o presencial. Dichos ámbitos pueden ser tanto los organizados por \[LAS\] de Sistemas como aquellos que son externos pero a los que asistimos como representantes de la comunidad.<br>
 Este CC también alcanza a cualquier persona externa que asista a nuestros eventos.
 
-Este documento está en continua revisión. Cualquier propuesta de cambio que tengas, podés crear un pull request o enviar un mensaje a cualquiera de les admins o a las cuentas oficiales de LasDeSistemas.
+Este documento está en continua revisión. Cualquier propuesta de cambio que tengas, podés crear un pull request o enviar un mensaje a cualquiera de les admins o a las cuentas oficiales de \[LAS\] de Sistemas.
 
 ## Ingreso de nuevas personas al Slack
 
@@ -23,7 +23,7 @@ Recomendamos colocar en el usuario de Slack el pronombre deseado.
 
 ## Confidencialidad
 
-Nuestra intención es que LasDeSistemas sea un espacio seguro para quienes integramos la comunidad. Todo lo que se dice en espacios íntimos de LasDeSistemas (Slack, juntadas, u otros eventos) debe ser confidencial. Por favor, no repitas ni cites ni difundas capturas de lo que se dice en esos ámbitos sin informar y sin conseguir consentimiento expreso ni aprobación de la/s persona/s involucrada/s.
+Nuestra intención es que \[LAS\] de Sistemas sea un espacio seguro para quienes integramos la comunidad. Todo lo que se dice en espacios íntimos de \[LAS\] de Sistemas (Slack, juntadas, u otros eventos) debe ser confidencial. Por favor, no repitas ni cites ni difundas capturas de lo que se dice en esos ámbitos sin informar y sin conseguir consentimiento expreso ni aprobación de la/s persona/s involucrada/s.
 
 Sin embargo, debemos ser conscientes de que todo lo que decimos en este espacio podría hacerse público en algún momento. Si bien esperamos que todas las personas de la comunidad honren la confidencialidad de este espacio, no podemos garantizar que lo harán. Tampoco podemos garantizar que sus credenciales de acceso y dispositivos sean completamente seguros, ni evitar que se tomen capturas de pantalla. Por favor, abstenete de compartir información sensible que pudiera dañarte a vos o a otras personas si se publicara.
 
